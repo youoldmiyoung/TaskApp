@@ -30,7 +30,7 @@ public class ViewTaskListScreen {
         });
 
         Button startBtn = new Button("Start");
-        Button deleteBtn = new Button("Delete");
+        Button deleteBtn = new Button("Delete ");
         Button createBtn = new Button("Create New");
         Button backBtn = new Button("Back");
 

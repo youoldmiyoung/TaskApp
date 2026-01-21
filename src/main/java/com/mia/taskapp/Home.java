@@ -20,7 +20,7 @@ public class Home {
         viewTaskListBtn.setOnAction(e -> ViewTaskListScreen.show(stage));
         singleTaskBtn.setOnAction(e -> SingleTaskScreen.show(stage));
 
-        // Slightly smaller square buttons
+        // custom size square buttons
         int mainSize = 130;
         newTaskListBtn.setPrefSize(mainSize, mainSize);
         viewTaskListBtn.setPrefSize(mainSize, mainSize);
